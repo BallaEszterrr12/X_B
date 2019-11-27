@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574843546 source:d:\balla eszterxb\laborvizsga\bingo\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
