@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582097599 source:d:\balla eszterxb\fileból való irás-olvasás\6.labor 1. feladat\6.labor2.feladat\main.cpp
+	<iostream>
+	<fstream>
+
